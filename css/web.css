@@ -62,6 +62,8 @@ a:visited {
 nav ul li {
   display: inline;
   display: center;
+  text-align: center;
+  padding-right: 10px;
 }
 
 
