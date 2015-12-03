@@ -51,7 +51,7 @@ section{
 
 #experience article{
   padding-bottom: 5px;
-  line-height: 15px;
+  line-height: inherit;
 }
 
 a:visited {
