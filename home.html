@@ -10,7 +10,7 @@
       <body>
 
         <div id="container">
-        <header id="contact">
+        <section id="sticky nav">
           <h1>Alexis Aarons</h1>
             <nav>
             <img src="alexisaaronsresume.png" alt="Photo of Alexis Aarons"/>
@@ -23,7 +23,7 @@
                 </ul>
               </header>
               </nav>
-              
+
                 <main>
                   <section id="home">
                     <h2>Objective</h2>
@@ -102,7 +102,7 @@
                   jQuery(function($) {
                     $(document).ready( function() {
                       //enabling stickUp on the '.navbar-wrapper' class
-                      $('nav').stickUp({
+                      $('sticky nav').stickUp({
                         //enabling marginTop with the 'auto' setting
                         marginTop: 'auto'
 

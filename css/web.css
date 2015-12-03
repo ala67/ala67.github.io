@@ -59,12 +59,12 @@ a:visited {
   color:rgb(118, 193, 210);
 }
 
-nav ul li {
+#stickynav ul li {
   display: inline;
   display: center;
-  text-align: center;
   padding-right: 10px;
 }
+
 
 
 footer{
