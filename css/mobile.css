@@ -1,9 +1,9 @@
 @media (max-width: 320px){
-
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 body{
   font-family: "Montserrat";
+  font-family: serif;
   font-size: 20px;
   color: #222;
   background: url(img/absurdity.png);
