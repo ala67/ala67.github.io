@@ -98,14 +98,17 @@
           <script src=https://code.jquery.com/jquery-2.1.4.js></script>
           <script src="js/stickUp.min.js"></script>
           <script type="text/javascript">
-              //initiating jQuery
-              jQuery(function($) {
-                $(document).ready( function() {
-                  //enabling stickUp on the '.navbar-wrapper' class
-                  $('header').stickUp();
+                  //initializing jQuery
+                  jQuery(function($) {
+                    $(document).ready( function() {
+                      //enabling stickUp on the '.navbar-wrapper' class
+                      $('header').stickUp({
+                        //enabling marginTop with the 'auto' setting
+                        marginTop: 'auto'
+                      });
+                  });
                 });
-              });
 
-            </script>
+                </script>
         </body>
     </html>
