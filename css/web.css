@@ -59,7 +59,7 @@ a:visited {
   color:rgb(118, 193, 210);
 }
 
-#stickynav ul li {
+nav ul li {
   display: inline;
   display: center;
   padding-right: 10px;
