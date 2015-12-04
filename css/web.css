@@ -59,23 +59,11 @@ a:visited {
   color:rgb(118, 193, 210);
 }
 
-nav {
-width:750px;
-margin:0 auto;
-list-style:none;
+nav ul li a {
+padding: 50px;
+margin: 20px;
+text-align: center;
 }
-
-nav li {
-float:left;
-}
-
-nav a {
-display:block;
-text-align:center;
-width:150px; /* fixed width */
-text-decoration:none;
-}
-
 
 
 footer{
