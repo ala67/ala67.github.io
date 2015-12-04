@@ -59,13 +59,8 @@ a:visited {
   color:rgb(118, 193, 210);
 }
 
-nav ul li a {
+nav ul li {
 padding: 50px;
 margin: 20px;
 display: inline;
-}
-
-
-footer{
-  text-align: center;
 }
