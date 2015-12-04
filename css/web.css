@@ -59,9 +59,15 @@ a:visited {
   color:rgb(118, 193, 210);
 }
 
-nav ul li {
-  display: inline;
-  display: center;
+#nav {
+text-align:center;
+}
+#nav li {
+display:inline;
+}
+#nav a {
+text-decoration:none;
+padding:0 30px; /* variable width */
 }
 
 
