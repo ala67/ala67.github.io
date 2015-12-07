@@ -6,6 +6,7 @@ body{
   color: #222;
   background: url(img/absurdity.png);
   background-color: #1c1619;
+  text-align: center;
   }
 
 
@@ -40,6 +41,10 @@ img{
 
 address{
   font-style: normal;
+  text-align: center;
+}
+
+p{
   text-align: center;
 }
 
