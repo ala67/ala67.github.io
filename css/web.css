@@ -65,10 +65,7 @@ section{
   margin-right: 10px;
 }
 
-#iframe{
-  max-width:690px;
-  min-width: 320px;
-  max height: 315px;
+section #iframe{
   align-content: center;
 }
 
