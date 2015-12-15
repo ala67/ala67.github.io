@@ -29,17 +29,7 @@ img{
   border: 2px solid #222;
 }
 
-#objective{
-  line-height: inherit;
-  text-align: left;
-  }
-
-#education{
-  line-height: 15px;
-  text-align: left;
-}
-
-#experience{
+#about{
   text-align: left;
   }
 
