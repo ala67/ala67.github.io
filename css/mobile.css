@@ -10,6 +10,7 @@ body{
 .container{
   max-width: 320px;
   min-width: 150px;
+  margin:auto;
   align-content: center;
   text-align: center;
   }
@@ -20,9 +21,11 @@ iframe {
   align: middle;
 }
 
+header{
+  display: inline-block;
+}
 
 nav{
-  width: 220px;
   text-align: left;
   display: inline-block;
 }
