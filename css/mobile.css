@@ -26,6 +26,11 @@ nav header{
   display: inline-block;
 }
 
+ul li{
+  text-align: center;
+  display: inline-block;
+}
+
 main{
     max-width: 300px;
     align-content: center;
