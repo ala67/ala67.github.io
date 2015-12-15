@@ -60,6 +60,13 @@ section{
   text-align: left;
 }
 
+section #iframe{
+  max-width:690px;
+  min-width: 320px;
+  max height: 315px;
+  align-content: center;
+}
+
 a:visited {
   color:rgb(97, 95, 105);
 }
