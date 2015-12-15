@@ -23,12 +23,6 @@ body{
   background: rgba(255, 255, 255, .80);
 }
 
-#iframe{
-  max-width:670px;
-  max height: 315px;
-  align-content: center;
-}
-
 img{
   margin-left: 10px;
   margin-right: 10px;
@@ -56,7 +50,6 @@ header{
 }
 
 section{
-  content-align: center;
   margin-left: 22px;
   margin-right: 10px;
 }
