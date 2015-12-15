@@ -27,6 +27,7 @@ nav header{
 }
 
 nav header ul li{
+    text-align: left;
     display: inline-block;
     }
 
