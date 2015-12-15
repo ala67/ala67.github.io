@@ -21,9 +21,14 @@ iframe {
   align: middle;
 }
 
-nav {
+nav header{
   display: flex;
   justify-content: center;
+}
+
+nav ul li{
+  text-align: center;
+  display: inline-flex;
 }
 
 main{
