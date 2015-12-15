@@ -12,10 +12,12 @@ body{
 #container{
   max-width: 220px;
   min-width: 150px;
+  text-align: center;
+  align-content: center;
   }
 
 nav{
-  width: 300px;
+  width: 220px;
   text-align: center;
   display: inline-block;
 }
