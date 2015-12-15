@@ -16,9 +16,9 @@ nav ul li{
     display: inline-block;
     }
 
-#iframe{
-    max-width: 320px;
-    max-height: 500px;
+main{
+    max-width: 300px;
+    max-height: 150px;
     align-content: center;
   }
 }
