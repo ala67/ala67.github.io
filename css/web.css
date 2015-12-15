@@ -21,7 +21,6 @@ body{
   min-width: 350px;
   margin: 0 auto;
   background: rgba(255, 255, 255, .80);
-  align-content: center;
 }
 
 #iframe{
