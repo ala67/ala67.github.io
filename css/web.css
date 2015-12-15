@@ -52,6 +52,10 @@ img{
   text-align: center;
 }
 
+#socialmedia{
+  align-content: center;
+}
+
 address{
   font-style: normal;
   text-align: center;
@@ -66,7 +70,6 @@ header{
 section{
   margin-left: 22px;
   margin-right: 10px;
-  align-content: center;
 }
 
 main{
