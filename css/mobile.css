@@ -17,6 +17,10 @@ body{
   max width: 220px;
 }
 
+img{
+  align-content: center;
+}
+
 nav{
   width: 220px;
   text-align: center;
