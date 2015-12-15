@@ -11,6 +11,7 @@ body{
   max-width: 320px;
   min-width: 150px;
   align-content: center;
+  text-align: center;
   }
 
 iframe {
