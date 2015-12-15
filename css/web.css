@@ -39,14 +39,9 @@ img{
   text-align: left;
 }
 
-#experience{
-  line-height: 30px;
-  text-align: left;
-  }
-
 #experience article{
   padding-bottom: 5px;
-  line-height: 30px;
+  line-height: inherit;
   text-align: left;
 }
 
