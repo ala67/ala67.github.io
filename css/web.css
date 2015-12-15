@@ -65,8 +65,12 @@ section{
   margin-right: 10px;
 }
 
-#iframe{
+section #iframe{
   align-content: center;
+}
+
+main{
+  text-align: center;
 }
 
 a:visited {
