@@ -21,13 +21,8 @@ iframe {
   align: middle;
 }
 
-nav header{
+nav {
   text-align: center;
-  display: inline-block;
-}
-
-ul li{
-  text-align: inherit;
   display: inline-block;
 }
 
