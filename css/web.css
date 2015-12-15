@@ -23,9 +23,7 @@ body{
   background: rgba(255, 255, 255, .80);
 }
 
-iframe{
-  width:560px;
-  height:315px;
+#iframe{
   align-content: center;
 }
 
