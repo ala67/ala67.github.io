@@ -1,9 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
 @media screen and (max-width: 320px) {
 
 body{
-  font-family: "Rock Salt";
-  font-family: serif;
   font-size: 22px;
   color: #222;
   background: url(img/absurdity.png);
