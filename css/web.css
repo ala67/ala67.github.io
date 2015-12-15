@@ -35,7 +35,7 @@ img{
   }
 
 #education{
-  line-height: 10px;
+  line-height: inherit;
   text-align: left;
 }
 
