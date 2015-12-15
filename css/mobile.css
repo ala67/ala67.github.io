@@ -22,17 +22,11 @@ iframe {
 }
 
 nav {
+  text-align: center;
+  display: inline;
   justify-content: center;
 }
 
-header{
-  text-align: justify;
-}
-
-nav ul li{
-  text-align: center;
-  display: inline-block;
-}
 
 main{
     max-width: 300px;
