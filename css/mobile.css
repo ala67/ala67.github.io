@@ -7,7 +7,18 @@ body{
   background-color: #1c1619;
   }
 
-  #iframe{
+#container{
+  max-width: 300px;
+  min-width: 150px;
+  }
+
+nav ul li{
+    display: inline-block;
+    }
+
+#iframe{
+    max-width: 320px;
+    max-height: 500px;
     align-content: center;
   }
 }
