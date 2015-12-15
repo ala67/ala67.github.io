@@ -30,9 +30,17 @@ img{
   border: 2px solid #222;
 }
 
-#about #objective #education #experience{
+#objective{
   text-align: left;
-  }
+}
+
+#education{
+  text-align: left;
+}
+
+#experience{
+  text-align: left;
+}
 
 #experience article{
   padding-bottom: 5px;
