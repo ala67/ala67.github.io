@@ -65,7 +65,7 @@ section{
   margin-right: 10px;
 }
 
-#iframe{
+main #iframe{
   max-width:690px;
   min-width: 320px;
   max height: 315px;
