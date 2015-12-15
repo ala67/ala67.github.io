@@ -85,4 +85,5 @@ nav{
 nav ul li {
   text-align: center;
   display: inline-block;
+  padding-right: 10px;
 }
