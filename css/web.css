@@ -16,7 +16,7 @@ body{
   color: #222;
 }
 
-#container {
+.container {
   max-width: 690px;
   min-width: 350px;
   margin: 0 auto;

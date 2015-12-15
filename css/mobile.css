@@ -7,14 +7,15 @@ body{
   background-color: #1c1619;
   }
 
-#container{
+.container{
   max-width: 220px;
   min-width: 150px;
   align-content: center;
   }
 
 #iframe{
-  max width: 220px;
+  width: 220px;
+  height: 115px;
   align-self: center;
 }
 
