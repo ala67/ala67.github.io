@@ -14,13 +14,10 @@ body{
   }
 
 #iframe{
-  align-content: center;
   max width: 220px;
+  align-self: center;
 }
 
-img{
-  align-content: center;
-}
 
 nav{
   width: 220px;
