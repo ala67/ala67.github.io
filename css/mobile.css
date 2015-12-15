@@ -27,6 +27,9 @@ nav {
   justify-content: center;
 }
 
+header{
+  display:inline;
+}
 
 main{
     max-width: 300px;
