@@ -29,6 +29,11 @@ img{
   border: 2px solid #222;
 }
 
+#objective{
+  line-height: 10px;
+  text-align: left;
+  }
+
 #education{
   line-height: 10px;
   text-align: left;
@@ -54,13 +59,17 @@ section{
   margin-right: 10px;
 }
 
+#experience{
+  text-align: left;
+  }
+
 #experience article{
   padding-bottom: 5px;
   line-height: inherit;
   text-align: left;
 }
 
-section iframe{
+section #iframe{
   max-width:690px;
   min-width: 320px;
   max height: 315px;
