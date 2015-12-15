@@ -39,6 +39,17 @@ img{
   text-align: left;
 }
 
+#experience{
+  line-height: 30px;
+  text-align: left;
+  }
+
+#experience article{
+  padding-bottom: 5px;
+  line-height: inherit;
+  text-align: left;
+}
+
 #contact{
   text-align: center;
 }
@@ -57,16 +68,6 @@ header{
 section{
   margin-left: 22px;
   margin-right: 10px;
-}
-
-#experience{
-  text-align: left;
-  }
-
-#experience article{
-  padding-bottom: 5px;
-  line-height: inherit;
-  text-align: left;
 }
 
 #iframe{
