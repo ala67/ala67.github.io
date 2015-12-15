@@ -30,16 +30,12 @@ img{
   border: 2px solid #222;
 }
 
-#objective{
+#about{
   text-align: left;
 }
 
 #education{
   line-height: 25px;
-  text-align: left;
-}
-
-#experience{
   text-align: left;
 }
 
