@@ -12,6 +12,11 @@ body{
   min-width: 150px;
   }
 
+nav{
+  width: 300px;
+  text-align: center;
+}
+
 nav ul li{
     display: inline-block;
     }
