@@ -21,8 +21,12 @@ iframe {
   align: middle;
 }
 
-nav header{
+nav {
   justify-content: center;
+}
+
+header{
+  text-align: left;
 }
 
 nav ul li{
