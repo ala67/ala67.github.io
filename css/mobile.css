@@ -27,7 +27,7 @@ nav header{
 }
 
 ul li{
-  text-align: center;
+  text-align: inherit;
   display: inline-block;
 }
 
